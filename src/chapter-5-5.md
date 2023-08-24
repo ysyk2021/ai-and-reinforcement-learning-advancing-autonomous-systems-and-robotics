@@ -1,5 +1,3 @@
-Healthcare and Biomedical Engineering
-================================================================================================================
 
 Reinforcement learning (RL) has shown significant potential in various industries, including healthcare and biomedical engineering. RL algorithms can optimize patient care, improve diagnosis and treatment, and reduce costs. In this chapter, we will discuss some of the applications of RL in healthcare and biomedical engineering.
 

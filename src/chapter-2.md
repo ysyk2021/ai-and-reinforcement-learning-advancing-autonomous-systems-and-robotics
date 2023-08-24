@@ -1,5 +1,3 @@
-Understanding Reinforcement Learning
-====================================
 
 Reinforcement learning is a subfield of machine learning that involves training agents to interact with their environment and learn to make decisions that maximize a reward signal. In this chapter, we will provide an overview of reinforcement learning and the traditional approaches to machine learning used in this field, as well as discuss the limitations and challenges of traditional approaches.
 

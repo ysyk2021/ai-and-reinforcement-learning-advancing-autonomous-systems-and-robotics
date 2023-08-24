@@ -1,5 +1,3 @@
-Objectives and Structure of the Book
-==================================================
 
 Artificial intelligence (AI) and reinforcement learning (RL) are revolutionizing the field of autonomous systems and robotics, providing new capabilities and opportunities for creating intelligent and adaptive machines. This book aims to provide a comprehensive overview of AI and RL, and their applications in advancing autonomous systems and robotics.
 

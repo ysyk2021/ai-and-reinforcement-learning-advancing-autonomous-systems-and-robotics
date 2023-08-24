@@ -1,5 +1,3 @@
-Artificial Intelligence in Reinforcement Learning
-==========================================================
 
 Reinforcement learning is an essential field of study in artificial intelligence (AI), which has seen significant advancement in recent years. AI techniques are used in reinforcement learning to develop autonomous systems and robotics that can learn from their environment and make decisions based on past experiences.
 

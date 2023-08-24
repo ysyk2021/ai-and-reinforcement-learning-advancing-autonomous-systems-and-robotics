@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Its Applications in Reinforcement Learning
-================================================================================================
 
 Artificial intelligence (AI) is a rapidly growing field that encompasses a wide range of techniques and applications. At its core, AI involves creating machines that can perform tasks that would normally require human intelligence, such as perception, reasoning, and decision-making.
 

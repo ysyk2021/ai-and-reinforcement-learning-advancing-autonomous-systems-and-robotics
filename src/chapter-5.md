@@ -1,5 +1,3 @@
-Applications of Reinforcement Learning in Autonomous Systems and Robotics
-=========================================================================
 
 Reinforcement learning (RL) has shown significant promise in various industries, including autonomous systems and robotics. This chapter will provide an overview of applications of reinforcement learning in autonomous systems and robotics. We will discuss autonomous driving, robotics and automation, gaming and entertainment, healthcare and biomedical engineering.
 

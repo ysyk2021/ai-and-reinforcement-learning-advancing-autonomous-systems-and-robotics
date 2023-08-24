@@ -1,5 +1,3 @@
-Ethical Considerations
-======================
 
 As reinforcement learning (RL) becomes increasingly prevalent across different industries, it's essential to consider the ethical implications of using artificial intelligence (AI) in RL. This chapter will discuss the ethical issues associated with RL, best practices for ensuring ethical and responsible AI in RL, and future directions and challenges.
 

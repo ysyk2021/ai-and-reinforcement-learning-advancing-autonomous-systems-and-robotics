@@ -1,5 +1,3 @@
-Traditional Approaches to Machine Learning
-================================================================================
 
 Before diving into reinforcement learning (RL), it's helpful to review some traditional approaches to machine learning, which can serve as a basis for understanding RL concepts and algorithms.
 

@@ -1,5 +1,3 @@
-Imitation Learning and Inverse Reinforcement Learning
-=======================================================================================================
 
 Reinforcement learning (RL) is a subset of machine learning that involves enabling machines to learn from their interactions with the environment. RL techniques and algorithms have shown significant potential in various industries, including autonomous systems and robotics. This chapter will discuss two popular reinforcement learning techniques - Imitation Learning and Inverse Reinforcement Learning.
 

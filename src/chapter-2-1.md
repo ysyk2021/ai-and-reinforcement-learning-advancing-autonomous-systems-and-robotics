@@ -1,5 +1,3 @@
-Overview of Reinforcement Learning
-========================================================================
 
 Reinforcement learning (RL) is a subfield of machine learning that involves training agents to interact with an environment in order to maximize a cumulative reward signal. RL is inspired by the way humans and animals learn from experience, and has wide-ranging applications in areas such as robotics, game playing, and optimization.
 

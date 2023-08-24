@@ -1,5 +1,3 @@
-Gaming and Entertainment
-===================================================================================================
 
 Reinforcement learning (RL) has been applied in a number of fields beyond traditional robotic applications, including gaming and entertainment. RL algorithms can be trained to play games at superhuman levels, optimizing their behavior based on rewards and punishments.
 

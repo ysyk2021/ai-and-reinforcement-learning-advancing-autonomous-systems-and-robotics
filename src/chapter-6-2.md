@@ -1,5 +1,3 @@
-Best Practices for Ensuring Ethical and Responsible AI in Reinforcement Learning
-========================================================================================================
 
 As we continue to develop and implement reinforcement learning (RL) algorithms in various systems, it is essential to consider the ethical implications of this technology. This chapter will outline some best practices for ensuring that AI and RL are developed and deployed in an ethical and responsible manner.
 

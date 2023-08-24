@@ -1,5 +1,3 @@
-Reinforcement Learning Techniques and Algorithms
-================================================
 
 Reinforcement learning (RL) is a subfield of machine learning that focuses on learning by interacting with an environment to maximize a reward. In this chapter, we will discuss the key techniques and algorithms used in reinforcement learning.
 

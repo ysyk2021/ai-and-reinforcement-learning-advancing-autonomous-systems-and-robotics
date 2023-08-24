@@ -1,5 +1,3 @@
-Overview of Reinforcement Learning Techniques and Algorithms
-==============================================================================================================
 
 Reinforcement learning is a powerful approach to machine learning that enables agents to learn from experience and optimize performance over time. In this chapter, we will provide an overview of reinforcement learning techniques and algorithms, including model-based and model-free methods.
 

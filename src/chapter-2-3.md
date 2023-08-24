@@ -1,5 +1,3 @@
-Limitations and Challenges of Traditional Approaches
-==========================================================================================
 
 Reinforcement learning has become an increasingly popular approach for developing autonomous systems and robotics. However, traditional reinforcement learning approaches have limitations and challenges that must be considered. In this chapter, we will discuss the limitations and challenges of traditional approaches to reinforcement learning.
 

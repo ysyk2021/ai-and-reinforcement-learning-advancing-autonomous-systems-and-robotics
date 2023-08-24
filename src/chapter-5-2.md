@@ -1,5 +1,3 @@
-Autonomous Driving and Transportation
-================================================================================================================
 
 Autonomous driving and transportation are areas that are ripe for disruption by the use of reinforcement learning (RL). With the increasing demand for smarter and safer transportation systems, RL can be used to optimize the behavior of autonomous vehicles and improve their effectiveness and safety.
 

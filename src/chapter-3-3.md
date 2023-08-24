@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Reinforcement Learning
-==========================================================================================================
 
 Artificial intelligence (AI) has emerged as a critical tool in reinforcement learning research. In this chapter, we will discuss case studies that showcase the use of AI in reinforcement learning, and explore their key insights.
 

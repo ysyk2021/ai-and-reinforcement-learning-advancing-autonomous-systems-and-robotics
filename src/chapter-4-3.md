@@ -1,5 +1,3 @@
-Deep Reinforcement Learning and Neural Networks
-=================================================================================================
 
 Deep reinforcement learning is an exciting and rapidly developing area of research that combines the power of neural networks with reinforcement learning algorithms. In this chapter, we will discuss the key concepts and techniques involved in deep reinforcement learning.
 

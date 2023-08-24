@@ -1,5 +1,3 @@
-Robotics and Automation
-==================================================================================================
 
 Reinforcement learning (RL) has become an increasingly popular approach to robotics and automation. RL algorithms allow robots to learn from experience, enabling them to perform complex tasks in dynamic and changing environments.
 

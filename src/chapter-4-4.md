@@ -1,5 +1,3 @@
-Multi-Agent Reinforcement Learning
-====================================================================================
 
 Multi-agent reinforcement learning (MARL) is a rapidly growing field of research that focuses on coordination and collaboration among multiple agents in an environment. In this chapter, we will discuss the key concepts and techniques involved in MARL.
 

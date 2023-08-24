@@ -1,5 +1,3 @@
-Q-Learning and SARSA
-======================================================================
 
 Reinforcement learning is a powerful approach to machine learning that enables agents to learn from experience and optimize performance over time. In this chapter, we will explore two widely used reinforcement learning algorithms: Q-Learning and SARSA.
 

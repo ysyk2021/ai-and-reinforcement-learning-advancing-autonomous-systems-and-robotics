@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Reinforcement Learning
-====================================================================================================================================
 
 Artificial intelligence (AI) is a critical component of reinforcement learning, enabling autonomous systems and robotics to learn from experience and interact with their environment. In this chapter, we will discuss different types of AI and their applications in reinforcement learning.
 
