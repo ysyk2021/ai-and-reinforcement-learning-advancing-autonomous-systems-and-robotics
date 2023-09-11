@@ -1,5 +1,4 @@
-Chapter: Types of Artificial Intelligence and Their Applications in Reinforcement Learning
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the different types of artificial intelligence (AI) and their applications in reinforcement learning (RL). AI encompasses various subfields and approaches, each with unique characteristics and applications in advancing autonomous systems and robotics through RL techniques.
 

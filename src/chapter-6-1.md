@@ -1,5 +1,4 @@
-Chapter: Ethical Issues Associated with the Use of AI in Reinforcement Learning
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the ethical issues associated with the use of artificial intelligence (AI) in reinforcement learning (RL) for advancing autonomous systems and robotics. As AI technologies become increasingly integrated into various domains, it is crucial to consider the ethical implications and address potential challenges.
 

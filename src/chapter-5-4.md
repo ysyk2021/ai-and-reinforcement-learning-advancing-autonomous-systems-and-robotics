@@ -1,5 +1,4 @@
-Chapter: Gaming and Entertainment
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the exciting applications of artificial intelligence (AI) and reinforcement learning (RL) in the gaming and entertainment industry. These technologies have revolutionized the way games are developed, played, and experienced, enhancing immersion, realism, and player engagement.
 

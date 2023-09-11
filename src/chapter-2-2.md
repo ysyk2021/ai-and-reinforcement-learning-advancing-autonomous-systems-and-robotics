@@ -1,5 +1,4 @@
-Chapter: Traditional Approaches to Machine Learning
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore traditional approaches to machine learning that have laid the foundation for advancements in AI and reinforcement learning for autonomous systems and robotics. These methods have paved the way for understanding patterns, making predictions, and solving various tasks.
 

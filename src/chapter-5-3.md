@@ -1,5 +1,4 @@
-Chapter: Robotics and Automation
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the intersection of artificial intelligence, reinforcement learning, and robotics to advance autonomous systems and automation. Robotics plays a crucial role in implementing AI algorithms in the physical world, enabling automation and intelligent decision-making.
 
